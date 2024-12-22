@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const Job = require("../schema/job.schema");
+const Job = require("../Schema/job.schema");
 const dotenv = require("dotenv");
 const authMiddleware = require("../middleware/auth");
 dotenv.config();

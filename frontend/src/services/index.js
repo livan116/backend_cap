@@ -1,4 +1,4 @@
-const URL = "http://localhost:4000/api";
+const URL = "https://backend-cap-final.onrender.com/api";
 export const register = (data) => {
   return fetch(`${URL}/user/register`, {
     method: "POST",

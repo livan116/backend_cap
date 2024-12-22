@@ -4,7 +4,7 @@ import Login from "./components/Login/Login";
 import Register from "./components/Register/Register";
 import Home from "./components/Home/Home";
 import NewJob from "./components/create_job/NewJob";
-import ViewDetails from "./components/ViewDetails/viewDetails";
+import ViewDetails from "./components/ViewDetails/ViewDetails";
 function App() {
   return (
     <>
